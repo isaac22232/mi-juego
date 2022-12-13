@@ -1,0 +1,20 @@
+PokeMMO
+
+objetivo: Pasar la liga pokemon y Completar la pokedex
+
+trama: inicia en pueblo en el que el profesor nos da a elegir entre 3 pokemon para comenzar una aventura, mientras vamos avanzando nos econtramos con el equipo
+aqua y el equipo magma que tratan de conseguir el control de los pokemon legendarios.
+
+reglas: no puedo avanzar a la siguiente ciudad sin antes conseguir la medalla.
+	por cada medalla se puede subir a cierto nivel. 	
+	en algunas zonas no se puede acceder si no tiene cierto movimiento.
+
+equilibrio: se mantiene el equilibrio hasta que estes en cierta fase del juego.
+
+retroalimentacion: si ganas un combate te dan cierto numero de monedas y si pierdo te quitan cierto numero de monedas
+
+suerte vs habilidad: ambos
+
+pc: creas tu propio avatar y le pones nombre
+
+npc: todos los personas que no se mueven libremente (profesor, campeon de la liga, los lideres de gimnasio)
